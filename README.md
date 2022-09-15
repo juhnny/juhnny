@@ -1,16 +1,9 @@
 ### Hi there 👋
+I'm a **Mobile app developer** based in Seoul, South Korea
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+🔥 I’m currently working on implementing **MVVM + Clean Architecture, coroutines** in my projects
+
+🌱 I’m currently learning **Kotlin, Operating System, Data structures and algorithms**.
 
 <!--
 **juhnny/juhnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
