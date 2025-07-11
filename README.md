@@ -8,10 +8,7 @@ It provides a Laundery Index(drying time index) and a dryint timer based on weat
 
 🌱 Learning **Computer Science** to define and solve problems better.
 
-🔍 **Open to Opportunities**
-
-📫 Contact: your.email@example.com  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+🚀 I’m open to exciting **job opportunities**. Let’s connect!
 
 
 <!--
