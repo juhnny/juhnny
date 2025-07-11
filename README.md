@@ -1,9 +1,18 @@
-### Hi there 👋
+### Hello, I'm Jun 👋
+
 I'm a **Mobile app developer** based in Seoul, South Korea.
 
-🔥 Currently working on implementing **MVVM + Clean Architecture, coroutines** in my projects.
+🌤️ building my new app ✨LaundryDay✨ using Jetpack Compose, MVVM, and coroutines.
 
-🌱 Learning **Kotlin, Operating System, Data structures and algorithms**.
+It provides a Laundery Index(drying time index) and a dryint timer based on weather forecasts.
+
+🌱 Learning **Computer Science** to define and solve problems better.
+
+🔍 **Open to Opportunities**
+
+📫 Contact: your.email@example.com  
+🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+
 
 <!--
 **juhnny/juhnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
