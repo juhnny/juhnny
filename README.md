@@ -2,7 +2,7 @@
 
 I'm a **Mobile app developer** based in Seoul, South Korea.
 
-🌤️ building my new app ✨**LaundryDay**✨ using Jetpack Compose, MVVM, and coroutines.
+🌤️ Building my new app ✨**LaundryDay**✨ using Jetpack Compose, MVVM, and coroutines.
 
 It provides a Laundery Index(drying time index) and a dryint timer based on weather forecasts.
 
